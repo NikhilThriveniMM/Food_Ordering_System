@@ -1,0 +1,32 @@
+{
+  "name": "ep04",
+  "version": "1.0.0",
+  "description": "Ep3 reactJs",
+  "main": "App.js",
+  "scripts": {
+    "development" : "parcel index.html",
+    "production" : "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilThriveniMM/reactJS.git"
+  },
+  "keywords": [
+    "reactJs",
+    "ep03"
+  ],
+  "author": "Nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhilThriveniMM/reactJS/issues"
+  },
+  "homepage": "https://github.com/NikhilThriveniMM/reactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
